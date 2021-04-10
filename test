@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python3 $1/$2_test.py
+cd -
